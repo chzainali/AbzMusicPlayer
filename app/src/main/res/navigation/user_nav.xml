@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/user_nav"
+    app:startDestination="@id/homeFragment">
+
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.abzmusicplayer.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.example.abzmusicplayer.fragments.AccountFragment"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/playlistFragment"
+        android:name="com.example.abzmusicplayer.fragments.PlaylistFragment"
+        android:label="fragment_playlist"
+        tools:layout="@layout/fragment_playlist" >
+        <action
+            android:id="@+id/action_playlistFragment_to_songsFragment"
+            app:destination="@id/songsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.example.abzmusicplayer.fragments.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_searchFragment_to_playSongFragment"
+            app:destination="@id/playSongFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/songsFragment"
+        android:name="com.example.abzmusicplayer.fragments.SongsFragment"
+        android:label="fragment_songs"
+        tools:layout="@layout/fragment_songs" >
+        <action
+            android:id="@+id/action_songsFragment_to_playSongFragment"
+            app:destination="@id/playSongFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/playSongFragment"
+        android:name="com.example.abzmusicplayer.fragments.PlaySongFragment"
+        android:label="fragment_play_song"
+        tools:layout="@layout/fragment_play_song" />
+</navigation>

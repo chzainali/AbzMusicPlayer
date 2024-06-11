@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AbzMusicPlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_playlist"><u>Add to Playlist</u></string>
+    <string name="details1">"Immerse yourself in Lucafrancini's soulful melodies and captivating ballads, offering a journey through love and life. With heartfelt vocals and masterful instrumentation, Lucafrancini's music leaves an indelible mark on the heart."
+        \n\n"Experience the magic of Lucafrancini's enchanting melodies today. Whether seeking solace or upliftment, his songs are the perfect soundtrack for every moment."</string>
+    <string name="details2">"Dive into Oleksandr Stepanov's enchanting world of haunting melodies and poignant lyrics, transporting listeners to a realm where beauty reigns supreme. Embark on a musical journey like no other and let his captivating tunes captivate your senses."
+        \n\n"Experience the power of Stepanov's storytelling through music and let his songs become the soundtrack to your life's journey."</string>
+    <string name="details3">"Step into Maksym Dudchyk's mesmerizing realm of captivating melodies and thought-provoking lyrics, taking listeners on an unforgettable journey through human experience. Immerse yourself in his evocative soundscapes and let the music ignite your passion for life."
+        \n\n"Experience the transcendent power of Dudchyk's artistry and find solace, inspiration, and a sense of belonging in his captivating melodies."</string>
+    <string name="details4">"Welcome to BoDleason's enchanting world of soulful blues and uplifting rock, offering a sonic journey unlike any other. Dive into his rich discography and let the music uplift, inspire, and connect."
+        \n\n"Discover the magic of BoDleason's songs as they weave tales of love, hope, and resilience, providing a sanctuary for the soul."</string>
+    <string name="details5">"Immerse yourself in William King's captivating melodies, offering a heartfelt expression of passion and creativity. Explore his soul-stirring lyrics and let his music become the soundtrack to your personal story."
+        \n\n"Experience the undeniable talent of King's smooth vocals and dynamic arrangements, providing solace, inspiration, and joy for life's highs and lows."</string>
+    <string name="details6">"Prepare to be swept away by DayFox's enchanting melodies, an artist whose music transcends boundaries and captivates audiences worldwide. Lose yourself in the rhythmic pulse of his beats and let the melodies carry you to distant shores."
+        \n\n"Embark on a sonic adventure with DayFox as your guide, experiencing relaxation, inspiration, and pure musical bliss in every moment."</string>
+    <string name="details7">"Step into the realm of electrifying beats and soul-stirring melodies with AlexGrohi, a visionary artist whose music pushes boundaries and captivates from the first note. Dive deep into his sonic universe and unlock endless possibilities."
+        \n\n"Experience the transformative power of AlexGrohi's music, offering an escape from the ordinary and a soundtrack for life's poignant moments."</string>
+    <string name="details8">"Embark on a melodic odyssey with Prazkhanal, whose compositions defy boundaries and resonate with the soul. Lose yourself in haunting melodies and uplifting anthems, finding solace and inspiration in every note."
+        \n\n"Discover the magic of Prazkhanal's enchanting compositions and experience the transformative power of music like never before."</string>
+    <string name="details9">"Indulge in the rhythmic symphony of Top-Flow, an emerging artist whose musical prowess knows no bounds. Experience the euphoria of his melodies and embark on a sonic adventure like never before."
+        \n\n"Join the ranks of devoted fans who have been swept away by Top-Flow's dynamic compositions and embrace the power of music to inspire, uplift, and unite."</string>
+
+</resources>

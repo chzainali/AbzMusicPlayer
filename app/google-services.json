@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275263420849",
+    "project_id": "abzmusicplayer",
+    "storage_bucket": "abzmusicplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275263420849:android:8ecf6ccc40ada1e08ca590",
+        "android_client_info": {
+          "package_name": "com.example.abzmusicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aubZRuNGa0QpOYRZ718PhuNRkMSZAZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
